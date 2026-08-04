@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Equity Jordan</title>
+
+  <script>
+    // EDIT YOUR URL HERE ONLY:
+    const targetUrl = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
+
+    // Immediate redirect
+    window.location.replace(targetUrl);
+
+    // Assign link to manual fallback once page loads
+    document.addEventListener("DOMContentLoaded", () => {
+      document.getElementById("redirect-link").href = targetUrl;
+    });
+  </script>
+</head>
+<body>
+  <p>Opening the Equity Jordan document…</p>
+
+  <p>
+    <a id="redirect-link" href="#">
+      Click here if the document does not open automatically.
+    </a>
+  </p>
+</body>
+</html>
