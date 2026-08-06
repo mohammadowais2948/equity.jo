@@ -2,35 +2,21 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-
-  <meta
-    name="viewport"
-    content="width=device-width, initial-scale=1.0"
-  >
-
-  <title>Equity Jordan</title>
-
-  <!-- Replace the URL below whenever the PDF link changes -->
-  <meta
-    http-equiv="refresh"
-    content="0; url=https://www.instagram.com/equitymun.jo?igsh=cW9mcjM1YWpqM2dv"
-  >
+  <meta http-equiv="refresh" content="0; url=https://www.instagram.com/equitymun.jo?igsh=cW9mcjM1YWpqM2dv">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Redirecting to EQUITY MUN</title>
 
   <script>
-    const pdfLink = "https://www.instagram.com/equitymun.jo?igsh=cW9mcjM1YWpqM2dv";
-
-    window.location.replace(pdfLink);
+    window.location.replace(
+      "https://www.instagram.com/equitymun.jo?igsh=cW9mcjM1YWpqM2dv"
+    );
   </script>
 </head>
-
 <body>
   <p>
-    Opening the Equity Jordan document…
-  </p>
-
-  <p>
+    Redirecting to Instagram…
     <a href="https://www.instagram.com/equitymun.jo?igsh=cW9mcjM1YWpqM2dv">
-      Click here if the document does not open automatically.
+      Click here if you are not redirected.
     </a>
   </p>
 </body>
