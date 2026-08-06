@@ -13,11 +13,11 @@
   <!-- Replace the URL below whenever the PDF link changes -->
   <meta
     http-equiv="refresh"
-    content="0; url=https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    content="0; url=https://www.instagram.com/equitymun.jo?igsh=cW9mcjM1YWpqM2dv"
   >
 
   <script>
-    const pdfLink = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
+    const pdfLink = "https://www.instagram.com/equitymun.jo?igsh=cW9mcjM1YWpqM2dv";
 
     window.location.replace(pdfLink);
   </script>
@@ -29,7 +29,7 @@
   </p>
 
   <p>
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <a href="https://www.instagram.com/equitymun.jo?igsh=cW9mcjM1YWpqM2dv">
       Click here if the document does not open automatically.
     </a>
   </p>
